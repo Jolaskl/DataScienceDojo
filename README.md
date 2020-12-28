@@ -2,6 +2,6 @@
 
 This is an exercise from Finance Dojo.
 
-In this particular exercise was to identify two most similar bonds 
+For this particular exercise the aim was to identify two most similar bonds, the origial data source 
 https://github.com/alexhuhn2019/DataScienceFinanceDojo/tree/master/bond_similarity
 
